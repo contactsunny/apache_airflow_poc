@@ -1,0 +1,1 @@
+wget https://nyc-tlc.s3.amazonaws.com/trip+data/yellow_tripdata_2020-12.csv -P /mnt/d/Backup/hive_sample_datasets/nyc_taxi_trips/nyc_yellow_taxi_trips/
